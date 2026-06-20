@@ -1,0 +1,6 @@
+/* Register-specific overrides — base auth styles live in ../auth.css */
+
+/* Register has a slightly tighter gap between form fields due to having more of them */
+.auth-form {
+  gap: 14px;
+}

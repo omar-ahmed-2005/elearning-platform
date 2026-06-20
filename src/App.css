@@ -1,0 +1,13 @@
+/* ============================================================
+   App.css — Global Reset & Overrides
+   This file intentionally kept minimal. All page-specific
+   styles live in src/pages/Home/Home.css and component-level
+   CSS modules (e.g., Services.css).
+   ============================================================ */
+
+/* Remove default margin from the root element */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}

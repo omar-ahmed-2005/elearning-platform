@@ -1,0 +1,6 @@
+/* Login-specific overrides — base auth styles live in ../auth.css */
+
+/* The login image is centered whereas register uses left-position */
+.auth-image-login {
+  object-position: center;
+}
