@@ -49,8 +49,8 @@ export default function Tutors() {
             <p className="tutor-card__desc">{tutor.desc}</p>
             
             <div className="tutor-card__socials">
-              <a href="#" className="tutor-card__social-link"><Twitter size={20} /></a>
-              <a href="#" className="tutor-card__social-link"><Linkedin size={20} /></a>
+              <a href="/" className="tutor-card__social-link"><Twitter size={20} /></a>
+              <a href="/" className="tutor-card__social-link"><Linkedin size={20} /></a>
             </div>
           </div>
         ))}

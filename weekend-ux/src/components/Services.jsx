@@ -16,7 +16,7 @@ export default function Services() {
            </div>
            <h3 className="service-card__title">Interaction Design</h3>
            <p className="service-card__description">Lessons on design that cover the most recent developments.</p>
-           <a href="#" className="service-card__link">
+           <a href="/" className="service-card__link">
              Learn More <ChevronRight size={18} />
            </a>
          </div>
@@ -27,7 +27,7 @@ export default function Services() {
            </div>
            <h3 className="service-card__title">UX Design Course</h3>
            <p className="service-card__description">Classes in development that cover the most recent advancements in web.</p>
-           <a href="#" className="service-card__link">
+           <a href="/" className="service-card__link">
              Learn More <ChevronRight size={18} />
            </a>
          </div>
@@ -38,7 +38,7 @@ export default function Services() {
            </div>
            <h3 className="service-card__title">User Interface Design</h3>
            <p className="service-card__description">User Interface Design courses that cover the most recent trends.</p>
-           <a href="#" className="service-card__link">
+           <a href="/" className="service-card__link">
              Learn More <ChevronRight size={18} />
            </a>
          </div>

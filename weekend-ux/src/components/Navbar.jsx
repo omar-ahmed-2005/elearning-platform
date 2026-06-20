@@ -18,15 +18,15 @@ export default function Navbar() {
       </div>
       
       <ul className="navbar__nav">
-        <li className="navbar__nav-item"><a href="#" className="navbar__nav-link navbar__nav-link--active">Home</a></li>
-        <li className="navbar__nav-item"><a href="#" className="navbar__nav-link">About us</a></li>
-        <li className="navbar__nav-item"><a href="#" className="navbar__nav-link">Courses</a></li>
-        <li className="navbar__nav-item"><a href="#" className="navbar__nav-link">Contact us</a></li>
-        <li className="navbar__nav-item"><a href="#" className="navbar__nav-link">FAQ's</a></li>
+        <li className="navbar__nav-item"><a href="/" className="navbar__nav-link navbar__nav-link--active">Home</a></li>
+        <li className="navbar__nav-item"><a href="/" className="navbar__nav-link">About us</a></li>
+        <li className="navbar__nav-item"><a href="/" className="navbar__nav-link">Courses</a></li>
+        <li className="navbar__nav-item"><a href="/" className="navbar__nav-link">Contact us</a></li>
+        <li className="navbar__nav-item"><a href="/" className="navbar__nav-link">FAQ's</a></li>
       </ul>
       
       <div className="navbar__actions">
-        <a href="#" className="navbar__signin">Sign in</a>
+        <a href="/" className="navbar__signin">Sign in</a>
         <button className="navbar__btn">Create free account</button>
       </div>
       

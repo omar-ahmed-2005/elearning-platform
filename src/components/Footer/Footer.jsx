@@ -17,11 +17,11 @@ function Footer() {
         <div>
           <h4>Product</h4>
           <ul>
-            <li><a href="#">Overview</a></li>
-            <li><a href="#">Features</a></li>
-            <li><a href="#">Solutions</a></li>
-            <li><a href="#">Tutorials</a></li>
-            <li><a href="#">Pricing</a></li>
+            <li><a href="/">Overview</a></li>
+            <li><a href="/">Features</a></li>
+            <li><a href="/">Solutions</a></li>
+            <li><a href="/">Tutorials</a></li>
+            <li><a href="/">Pricing</a></li>
           </ul>
         </div>
 
@@ -30,9 +30,9 @@ function Footer() {
           <h4>Company</h4>
           <ul>
             <li><Link to="/about">About us</Link></li>
-            <li><a href="#">Careers</a></li>
-            <li><a href="#">Press <span>New</span></a></li>
-            <li><a href="#">News</a></li>
+            <li><a href="/">Careers</a></li>
+            <li><a href="/">Press <span>New</span></a></li>
+            <li><a href="/">News</a></li>
           </ul>
         </div>
 
@@ -40,10 +40,10 @@ function Footer() {
         <div>
           <h4>Social</h4>
           <ul>
-            <li><a href="#">Twitter</a></li>
-            <li><a href="#">LinkedIn</a></li>
-            <li><a href="#">GitHub</a></li>
-            <li><a href="#">Dribbble</a></li>
+            <li><a href="/">Twitter</a></li>
+            <li><a href="/">LinkedIn</a></li>
+            <li><a href="/">GitHub</a></li>
+            <li><a href="/">Dribbble</a></li>
           </ul>
         </div>
 
@@ -51,9 +51,9 @@ function Footer() {
         <div>
           <h4>Legal</h4>
           <ul>
-            <li><a href="#">Terms</a></li>
-            <li><a href="#">Privacy</a></li>
-            <li><a href="#">Cookies</a></li>
+            <li><a href="/">Terms</a></li>
+            <li><a href="/">Privacy</a></li>
+            <li><a href="/">Cookies</a></li>
             <li><Link to="/contact">Contact</Link></li>
           </ul>
         </div>
